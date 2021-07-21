@@ -1,2 +1,2 @@
 # java-project
-we are planning on creating an java project for your collage project
+we are creating an java project for the chatting securly over tcp tunnel.
